@@ -1,7 +1,7 @@
 package domain;
 
 /**
- * 视频数据基本信息类
+ * 视频数据基本信 息类
  * @author Administrator
  *
  */
