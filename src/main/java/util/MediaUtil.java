@@ -88,7 +88,7 @@ public class MediaUtil {
      */
 	private static String durationRegex = "Duration: (\\d*?):(\\d*?):(\\d*?)\\.(\\d*?), start: (.*?), bitrate: (\\d*) kb\\/s.*";
     private static Pattern durationPattern;
-	/**
+	/** 
      * 视频流信息正则匹配式
      * 用于解析视频详细信息时使用；
      */
